@@ -1,4 +1,1 @@
-What is a remote repository?
-
-A remote repo is a central repo that is stored on the internet/network in 
-which all local repo changes are pushed into.
+What is the difference between a merge and a rebase?
